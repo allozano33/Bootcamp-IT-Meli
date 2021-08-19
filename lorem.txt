@@ -1,1 +1,14 @@
 Hoje é 19 de Agosto de 2021
+
+
+- Criei o app no Fury (internet)
+2- Usando o Fury cli - fiz o clone (fury get app)
+3- Rodei o app (fury run)
+4- faz de conta que programos algo!!!
+5- Subir
+	git status
+git add --all
+	git commit -m "aloha"
+	git push origin feature/initial-scrafolding
+6- Fury ira fazer CI (testes, smells, etc)
+	fury create-version 0.0.1 ( Criar versao )

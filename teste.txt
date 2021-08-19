@@ -1,0 +1,14 @@
+SHA256:uOgXyPWBPW0TvaIIlMCPsnVm6/pAxlZvkxaMNXnn9+Y alessandro.lozano@mercdolivre.com
+The key's randomart image is:
++--[ED25519 256]--+
+| ... .o.   .     |
+|  . o+... o .    |
+|   +o o+ + . .   |
+|..o.*.o++ * o    |
+| +== =BoS= + .   |
+|.+  ++ooo     o  |
+|  ... ..     o   |
+|   o. .       E  |
+|  .oo.           |
++----[SHA256]-----+
+BR0C02FQ0SXMD6M:~ allozano$ 
