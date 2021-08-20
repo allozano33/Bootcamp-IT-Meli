@@ -1,0 +1,44 @@
+Exercício 1
+
+String apelido = Gomez; // String = nome
+        int idade = "35";  // int = número
+        boolean  valor= false;  // boolean b= false
+        String saldo = 45857.90 // double = salário
+        double nome = "Julián"; // String = "julian";
+
+
+
+Exercício 2
+
+String 1nome;  // inicia com letra
+int idade;   
+double $aldo; // sem caractere especial
+String @pellido; // sem caractere especial
+String direcao;
+boolean carteira de motorista; // sem espaço
+double altura da pessoa; // usar números
+int quantidade-de-filhos; // usar números
+
+Exercicio 3
+        Scanner keyPad = new Scanner(System.in);
+        int costperday;
+        costperday =2;
+        int daysOfCampaign;
+        int numberOfDays;
+        System.out.println("Informe a Quantidade de dias da Campanha:  ") ;
+        numberOfDays = keyPad.nextInt();
+        daysOfCampaign = costperday*numberOfDays;
+        System.out.println ( numberOfDays + " Custo dos dias de Campanha " + daysOfCampaign );
+    }
+}
+
+EXERCICIO 4
+
+/        Scanner entrada  = new Scanner(System.in);
+//        System.out.println(“Entre o valor do prêmio!“);
+//        double valorPremio = entrada.nextDouble();
+//        double valorImpostos = (2.45d+15d+3d)/100d;
+//        double total = valorPremio*valorImpostos;
+//        DecimalFormat df = new DecimalFormat(“.##“);
+//        df.setRoundingMode(RoundingMode.DOWN);
+//        System.out.println(df.format(total));
